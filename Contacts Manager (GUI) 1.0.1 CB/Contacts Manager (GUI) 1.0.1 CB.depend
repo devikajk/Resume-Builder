@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1554919003 source:d:\projects\c\code blocks\contacts manager (gui) 1.0.1 cb\resource.rc
+	<windows.h>
+	"resource.h"
+
+1554918170 d:\projects\c\code blocks\contacts manager (gui) 1.0.1 cb\resource.h
+
+1554918961 source:d:\projects\c\code blocks\contacts manager (gui) 1.0.1 cb\contactsmanager.c
+	"contacts.h"
+	"resource.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1554918078 d:\projects\c\code blocks\contacts manager (gui) 1.0.1 cb\contacts.h
+	<stdio.h>
+	"functions.h"
+
+1554918105 d:\projects\c\code blocks\contacts manager (gui) 1.0.1 cb\functions.h
+	<string.h>
+	<stdbool.h>
+
